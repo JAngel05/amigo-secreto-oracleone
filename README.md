@@ -25,7 +25,7 @@ Este proyecto consta de una página web donde tu puedes añadir a una lista de p
 - Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página indicado de color verde. 
 
 ## Demostración del proyecto 
-![alt text](assets/PruebaAmigoOracle.gif)
+![alt text](assets/PruebaAmigoOracle1.gif)
 
 ## Alojamiento para probar el proyecto 
 https://jangel05.github.io/amigo-secreto-oracleone/
