@@ -24,4 +24,7 @@ Este proyecto consta de una página web donde tu puedes añadir a una lista de p
 - Validar la lista: Los nombres que el usuario agregó aparecerán en una lista debajo del campo de entrada. 
 - Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página indicado de color verde. 
 
+## Demostración del proyecto 
+![alt text](assets/PruebaAmigoOracle.gif)
+
 </body>
